@@ -1,6 +1,5 @@
 * {
     font-family: "Roboto", Arial, sans-serif;
-
 }
 
 h1 {
@@ -10,4 +9,8 @@ h1 {
 img {
     width: auto;
     height: 400px;
+}
+
+.h1, #recipes-header {
+    text-align: left;
 }
