@@ -14,5 +14,16 @@ img {
 }
 
 h1 {
-    text-align: center;
+    width: auto;
+}
+
+#recipe-links {
+    font-size: x-large;
+    padding-left: 5px;
+    list-style-type: none;
+    text-align: left;
+    justify-content: space-evenly;
+    width: auto;
+    text-decoration: none;
+    line-height: 40px;
 }
