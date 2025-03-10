@@ -3,6 +3,11 @@
     background-color: #F5F5DC;
 }
 
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+}
+
 /* Home Page Below */
 
 img {
@@ -31,4 +36,7 @@ h1, h2, p {
 
 h2 {
     text-decoration: underline;
+}
+p {
+    font-size: large;
 }
