@@ -2,10 +2,6 @@
     font-family: "Roboto", Arial, sans-serif;
 }
 
-#recipes-header {
-    text-align: left;
-}
-
 /* Home Page Below */
 
 img {
@@ -15,6 +11,7 @@ img {
 
 h1 {
     width: auto;
+    padding-left: 5px;
 }
 
 #recipe-links {
@@ -27,3 +24,5 @@ h1 {
     text-decoration: none;
     line-height: 40px;
 }
+
+/* Recipe Page Styles */
