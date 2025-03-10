@@ -1,3 +1,11 @@
+* {
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+    text-align: auto;
+}
+
 img {
     width: auto;
     height: 400px;
