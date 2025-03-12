@@ -44,17 +44,18 @@ h1, h2, p {
     padding-inline-start: 0;
     margin-left: 50px;
     margin-right: 50px;
+    list-style: none;
 }
 
-ul a {
+li a {
     font-size: x-large;
     padding-left: 5px;
-    list-style-type: none;
     text-align: left;
     justify-content: space-evenly;
     width: auto;
     text-decoration: underline;
     color: #333;
+    font-weight: 500;
 }
 
 .link {
@@ -64,14 +65,16 @@ ul a {
 
 .lasagna {
     text-align: left;
+    margin-left: 50px;
+
 }
 .pizza {
     text-align: center;
 }
 .tacos {
     text-align: right;
+    margin-right: 50px;
 }
-
 /* Recipe Page Styles */
 
 h2 {
