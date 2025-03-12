@@ -39,8 +39,11 @@ h1, h2, p {
     font-weight: 100;
 }
 
-#recipe-links li {
+#recipe-links {
     display: block;
+    padding-inline-start: 0;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 ul a {
@@ -52,6 +55,11 @@ ul a {
     width: auto;
     text-decoration: underline;
     color: #333;
+}
+
+.link {
+    border: 2px solid black;
+    padding: 0;
 }
 
 .lasagna {
