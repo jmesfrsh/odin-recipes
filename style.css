@@ -58,6 +58,8 @@ li a {
     font-weight: 500;
 }
 
+/* CENTER RECIPES BOX */
+
 .link {
     border: 2px solid black;
     padding: 0;
@@ -65,15 +67,12 @@ li a {
 
 .lasagna {
     text-align: left;
-    margin-left: 50px;
-
 }
 .pizza {
     text-align: center;
 }
 .tacos {
     text-align: right;
-    margin-right: 50px;
 }
 /* Recipe Page Styles */
 
