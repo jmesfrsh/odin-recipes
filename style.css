@@ -52,6 +52,7 @@ li a {
     color: #333;
     font-weight: 500;
     padding-left: 3px;
+    text-decoration: none;
 }
 
 .lasagna {
@@ -81,4 +82,8 @@ p {
     display: inline-block;
     margin-top: 10px;
     margin-left: 10px;
+}
+
+.sub-title {
+    text-decoration: underline;
 }
