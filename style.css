@@ -35,7 +35,7 @@ h1, h2, p {
     font-weight: 100;
 }
 
-#recipe-links {
+.recipe-links {
     display: block;
     padding-inline-start: 0;
     margin-left: 50px;
