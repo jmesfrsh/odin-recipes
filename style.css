@@ -38,11 +38,12 @@ h1, h2, p {
 }
 
 .recipe-links {
-    display: block;
     padding-inline-start: 0;
     margin-left: 50px;
     margin-right: 50px;
     list-style: none;
+    justify-content: space-evenly;
+    display: flex;
 }
 
 li a {
@@ -57,16 +58,9 @@ li a {
     text-decoration: none;
 }
 
-.lasagna {
-    text-align: left;
-}
-.pizza {
-    text-align: center;
-    padding: 20px;
-}
-.tacos {
-    text-align: right;
-}
+
+
+
 /* Recipe Page Styles */
 
 h2 {
