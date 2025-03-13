@@ -69,7 +69,7 @@ li a {
 
 h2 {
     text-decoration: underline;
-    font-weight: 550;
+    font-weight: 500;
     font-size: 30px;
     padding-left: 40px;
 }
@@ -91,4 +91,7 @@ p {
 h3 {
     text-decoration: underline;
     padding-left: 40px;
+    margin-top: 50px;
+    font-size: 25px;
+    font-weight: 500;
 }
