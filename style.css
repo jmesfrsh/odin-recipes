@@ -11,6 +11,8 @@ body {
     max-width: 900px;
     margin: 0% auto;
     margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 h1 {
@@ -99,4 +101,9 @@ h3 {
 .ingredients, .steps {
     font-size: 20px;
     line-height: 2;
+    margin-right: 40px;
+}
+
+.steps{
+    padding-top: 0;
 }
